@@ -1,0 +1,13 @@
+.main-div{
+    position: absolute;
+    width: 50%;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: 20px;
+    left: 10%;
+    
+}
+
+/* .narrow {
+    width: 60%;
+  } */
