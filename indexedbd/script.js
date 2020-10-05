@@ -11,7 +11,7 @@ if (!window.indexedDB) {
   btnAddNote.addEventListener("click", addNote);
 
     function addNote() {
-
+      console.log("notes")
       const note = {
           title: "note" + Math.random(),
           text: "This is my note"
